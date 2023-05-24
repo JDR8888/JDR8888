@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋 I'm Jake. I am a fullstack web developer with a focus on React.js. 
+
+### Check out some of my pinned project repos or view my portfolio here: https://jdr8888.github.io/jdr-portfolio/ 
+
+
 
 <!--
 **JDR8888/JDR8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
