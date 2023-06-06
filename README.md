@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jake. I am a fullstack web developer with a focus on React.js.n!996r
+## Hi there 👋 I'm Jake. I am a fullstack web developer with a focus on React.js.
 
 ### Check out some of my pinned project repos or [click here to view my portfolio](https://jdr8888.github.io/jdr-portfolio/) 
 <img src="https://komarev.com/ghpvc/?username=JDR8888&style=flat-square&color=blue" alt=""/>
